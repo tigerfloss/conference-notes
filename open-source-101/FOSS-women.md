@@ -1,6 +1,7 @@
 # FOSS It Up, With Women!
 Speaker: Jigyasa Grover
 
+
 > This year is the 20th year that Open Source has been officially a term
 
 **3%** only are women
@@ -24,4 +25,5 @@ Few role-models to look up to for inspiration
 
 > Look up at the stars. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious! ~Stephen Hawking~
 
-
+-> You can help by reporting bugs.
+-> Contributing to documentation
