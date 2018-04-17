@@ -1,4 +1,4 @@
-#Heroic and Inspiring Tales of Open Source
+# Heroic and Inspiring Tales of Open Source
 Speaker: Danese Cooper
 
 > Open Source has been a completely wild ride
