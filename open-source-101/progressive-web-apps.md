@@ -10,7 +10,7 @@ Speaker: Jennifer Bland
 #### Manifest.json
 * `short_name` - name displayed on shortcut
 * `display` - dfine the developer's preferred display mode for the web application (standalone|fullscreen)
-* `backgground_color` - expected background color for the web application
+* `background_color` - expected background color for the web application
 * `theme_color` - default theme color for an application
 * `icons` - an arrage of image objects that can serve as app icon sin various contexts
 * `orientation` - can enforce a specific orientation
@@ -31,9 +31,12 @@ if ('serviceworker' is navigator){
 ### 4. Responsive Design
 * Can be installed on any device
 
-#### [PWA Checklist][https://developers.google.com/web/progressive-web-apps/https://developers.google.com/web/progressive-web-apps/checklist]
+#### [PWA Checklist](https://developers.google.com/web/progressive-web-apps/https://developers.google.com/web/progressive-web-apps/checklist)
 
 #### PWA Performance
 * Lighthouse
+
+#### PWA Training
+[Deep Linking](https://developers.google.com/web/lit/pwa/deeplinking)
 
 

@@ -76,4 +76,4 @@ Contributor Common Pitffalls:
 - Document and comment your code
  
 
-[Presentation Link][https://goo.gl/BZ45xB]
+[Presentation Link](https://goo.gl/BZ45xB)
