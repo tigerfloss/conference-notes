@@ -4,7 +4,7 @@ Speaker: Jennifer Bland
 ## Requirements
 ### HTTPS
 ### Web App Manifest
-'''HTML
+'''html
 <link rel="Manifest" href="manifest.json">
 '''
 #### Manifest.json
@@ -13,4 +13,4 @@ Speaker: Jennifer Bland
 * `backgground_color` - expected background color for the web application
 * `theme_color` - default theme color for an application
 * `icons` - an arrage of image objects that can serve as app icon sin various contexts
-
+*
