@@ -84,9 +84,13 @@ the location where you are sending the changes
 	2. rename you repo directory (from `repo` to `repo.bad`) and the **re-clone** the repo
 
 `git status` - hey what's going on?
+
 `git add` - unknow state -> staged
+
 `git commit` - staged -> committed
+
 `git diff` - compare the differences
+
 `git push` - send changes
 
 [interactive git tutorial tool](try.github.io)
