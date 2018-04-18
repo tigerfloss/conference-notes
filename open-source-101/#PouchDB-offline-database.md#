@@ -1,0 +1,27 @@
+# **PouchDB** - The Offline Database
+Speaker: Tom Wilson, @twilson63
+
+## What is PouchDB?
+- JavaScript database
+- inspired by Apache CouchDB
+- Runs in the Browser and NodeJS
+- Document Database of NoSQL Database
+- Notification or Changes Feed
+- Can replicate
+
+## Why Pouch DB?
+- Why use a database in the Browser?
+- Why replication
+- Why NoSQL?
+
+## Offline First
+### What is offline first?
+Offline capability is a key characteristic of moden Progressive Web Application
+
+Offline first thinking must learn from and further what we've seen work with Responsive and Mobile First Thinking
+
+## Apache CouchDB
+- PouchDB is able to sync with CouchDB
+- CouchDB uses the http protocol - the protocol of the web
+- CouchDB treates sync as a first class citizen
+- PouchDB is able to act as a drive for CouchDB
